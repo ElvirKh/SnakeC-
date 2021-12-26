@@ -1,0 +1,15 @@
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\bin\Debug\net6.0\Snake.exe
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\bin\Debug\net6.0\ref\Snake.dll
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\L4596\Desktop\Education\Geekbrains\C#\Snake\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
