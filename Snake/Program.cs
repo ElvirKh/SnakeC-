@@ -1,14 +1,16 @@
-﻿int x1 = 1;
-int y1 = 3;
-char symbol = '*';
-
-Console.SetCursorPosition(x1, y1);
-Console.WriteLine(symbol);
-
-static void Draw(int x,int y, char symbol)
+﻿namespace Snake
 {
-    Console.SetCursorPosition(x, y);
-    Console.WriteLine(symbol);
-}
 
-Draw(1, 5, '#');
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Point p1 = new Point();
+            p1.x = 1;
+            p1.y = 3;
+            p1.symbol = '*';
+            p1.Draw();
+        }
+
+    }
+}
